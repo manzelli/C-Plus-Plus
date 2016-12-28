@@ -1,0 +1,1 @@
+The first programming assignment received in **EC327 (Introduction to Software Programming in C++)** at Boston University. The files here are solutions to five simple problems involving ***mathematics, modularity/overloaded functions, selection statements, loops, and input handling.***
